@@ -1,1 +1,31 @@
 @import "tailwindcss";
+
+@font-face {
+  font-family: 'Modernoir';
+  src: url('/fonts/TT_Modernoir_Trial_Light.ttf') format('truetype');
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'Modernoir';
+  src: url('/fonts/TT_Modernoir_Trial_Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Modernoir';
+  src: url('/fonts/TT_Modernoir_Trial_DemiBold.ttf') format('truetype');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'Modernoir';
+  src: url('/fonts/TT_Modernoir_Trial_Bold.ttf') format('truetype');
+  font-weight: 600;
+}
+@theme {
+  --color-background:#F5DFBB;
+  --color-secondary: #FF521B;
+  --color-primary:#426B69;
+  --color-primary-darken: #2C514C;
+  --color-accent: #593837;
+
+  --font-modernoir: "Modernoir", sans-serif;
+}

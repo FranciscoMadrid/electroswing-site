@@ -1,6 +1,12 @@
 ---
 import Base from "@/layout/Base.astro";
+import HeroContainer from "@/layout/components/functional components/HeroContainer";
+import InformationContainer from "@/layout/components/functional components/info section/InformationContainer";
 ---
 <Base>
-  <p class="bg-blue-500 text-400">test</p>
+  <HeroContainer client:load/>
+  <div class="w-full h-5 bg-secondary"/>
+  <div class="w-full h-5 bg-accent"/>
+  <div class="w-full h-5 bg-primary"/>
+  <InformationContainer client:load/>
 </Base>
