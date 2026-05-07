@@ -7,6 +7,7 @@ interface RecordAnimationProps {
 export default function RecordAnimation({duration = 2}:RecordAnimationProps) {
   return (
     <motion.img 
+      loading='lazy'
       animate={{
         rotate: 360
       }}
@@ -15,7 +16,7 @@ export default function RecordAnimation({duration = 2}:RecordAnimationProps) {
         repeat: Infinity,
         ease: 'linear'
       }}
-      className='will-change-transform object-cover'
+      className='will-change-transform object-cover w-[50vw]'
       alt='record.png'
       src='images/record.png'
     />

@@ -1,0 +1,48 @@
+{
+  "info": [
+    {
+      "id": 1,
+      "title": "On the Beat",
+      "img": "images/info/info-1.jpg",
+      "content": "In the age of sampling, Electro Swing wields the power of classic big band samples, to popular moves and quotes, to instrumental loops that instill a special excitement. It is claimed that the genre originated in exactly the early 1990's era of sampling old records from the swing era and revitalizing them with hip hop beat structures. It was likely inevitable that vintage swing samples would eventually find their way into the wave of electronic music production from the late 1990s to the early 2000s."
+    },
+    {
+      "id": 2,
+      "title": "Flappers, Caps and Suits",
+      "img": "images/info/info-2.jpg",
+      "content": "The clothing blends 1920s–1940s vintage fashion with modern electronic music culture, creating a bold, eclectic aesthetic.  It’s characterized by a mix of flapper dresses, tailored suits, and retro accessories, often combined with steampunk, cyberpunk, or neon elements for a futuristic twist."
+    }
+  ],
+  "subgenre": [
+    {
+      "id": 1,
+      "title": "Swing House",
+      "content": "Swing House is the most popular form of the genre, blending 1920s jazz and big-band samples with the steady, four-on-the-floor beat of modern house music. It typically sits at a danceable 120–128 BPM, focusing on catchy brass hooks and polished electronic production designed for the club floor."
+    },
+    {
+      "id": 2,
+      "title": "Swing-Hop",
+      "content": "Swing-Hop is a laid-back fusion that blends vintage jazz loops with the rhythmic, mid-tempo of traditional hip-hop. It prioritizes a steady, head-nodding groove and often features rappers or vocalists performing over dusty 1930s samples and soulful brass arrangements."
+    },
+    {
+      "id": 3,
+      "title": "Swing'n'Bass",
+      "content": "Swing'n'Bass is a high-octane fusion that layers frantic, 170+ BPM Drum & Bass breakbeats beneath brass-heavy 1920s swing melodies. It creates an intense festival energy by blending the sophisticated sound with the aggressive, deep sub-bass of modern jungle and DnB."
+    },
+    {
+      "id": 4,
+      "title": "Glitch Swing",
+      "content": "Glitch Swing is a deconstructed subgenre that chops vintage jazz samples into stuttering, digital fragments over heavy, wonky basslines. It blends 1920s melodies with modern glitch aesthetics to create a retro-futuristic sound that feels both nostalgic and mechanical."
+    }
+  ],
+  "detail": [
+    {
+      "id": 1,
+      "title": "Description"
+    },
+    {
+      "id": 2,
+      "title": "Album"
+    }
+  ]
+}

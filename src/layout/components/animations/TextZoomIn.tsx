@@ -4,11 +4,11 @@ import React, { useRef, useState } from 'react'
 interface TextZoomInProps {
   scrollY: MotionValue,
   words: string[],
-  maxRange: number
+  maxRange: number,
 }
 
 export default function TextZoomIn({scrollY, words, maxRange}:TextZoomInProps) {
-  const scaleText = 20
+  const scaleText = 15
   const textColor = ['text-secondary', 'text-white']
   return (
     <div className='absolute flex items-center justify-center w-full h-full overflow-hidden'>

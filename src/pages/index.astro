@@ -1,7 +1,11 @@
 ---
 import Base from "@/layout/Base.astro";
+import ArtistContainer from "@/layout/components/functional components/artist section/ArtistContainer";
+import GenreContainer from "@/layout/components/functional components/genre section/GenreContainer";
 import HeroContainer from "@/layout/components/functional components/HeroContainer";
 import InformationContainer from "@/layout/components/functional components/info section/InformationContainer";
+import SeparatorContainer from "@/layout/components/functional components/separator section/SeparatorContainer";
+import TimelineContainer from "@/layout/components/functional components/timeline section/TimelineContainer";
 ---
 <Base>
   <HeroContainer client:load/>
@@ -9,4 +13,7 @@ import InformationContainer from "@/layout/components/functional components/info
   <div class="w-full h-5 bg-accent"/>
   <div class="w-full h-5 bg-primary"/>
   <InformationContainer client:load/>
+  <GenreContainer client:load/>
+  <TimelineContainer client:load/>
+  <ArtistContainer client:load/>
 </Base>

@@ -27,7 +27,7 @@ export default function MainTitle({
   const y = useTransform(scrollY, translateRange, translate)
   return (
     <motion.div 
-      className='flex text-7xl h-full flex-row absolute justify-center items-center'
+      className='flex text-6xl md:text-9xl h-full flex-row absolute justify-center items-center'
       style={{
         y
       }}
