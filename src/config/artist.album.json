@@ -2,13 +2,13 @@
   {
     "id": 1,
     "name": "Caravan Palace",
-    "background_img": "/src/assets/caravan palace/background.jpg",
+    "background_img": "/images/caravan palace/background.jpg",
     "description": "A pioneering French electronic group that blends gypsy jazz, swing, and vintage sounds with modern house, hip-hop, and EDM elements.",
-    "img": "/src/assets/caravan palace/caravan_palace_main.jpg",
+    "img": "/images/caravan palace/caravan_palace_main.jpg",
     "albums": [
       {
         "title": "Caravan Palace",
-        "album_img": "/src/assets/caravan palace/album_caravan_palace.jpg",
+        "album_img": "/images/caravan palace/album_caravan_palace.jpg",
         "year": 2008,
         "songs": [
           { "order": 1, "title": "Dragons", "duration": "4:05" },
@@ -30,7 +30,7 @@
       },
       {
         "title": "Panic",
-        "album_img": "/src/assets/caravan palace/album_panic.jpg",
+        "album_img": "/images/caravan palace/album_panic.jpg",
         "year": 2012,
         "songs": [
           { "order": 1, "title": "Queens", "duration": "4:06" },
@@ -51,7 +51,7 @@
       },
       {
         "title": "<|°_°|>",
-        "album_img": "/src/assets/caravan palace/album_robot_face.png",
+        "album_img": "/images/caravan palace/album_robot_face.png",
         "year": 2015,
         "songs": [
           { "order": 1, "title": "Lone Digger", "duration": "3:49" },
@@ -69,7 +69,7 @@
       },
       {
         "title": "Chronologic",
-        "album_img": "/src/assets/caravan palace/album_chronologic.jpg",
+        "album_img": "/images/caravan palace/album_chronologic.jpg",
         "year": 2019,
         "songs": [
           { "order": 1, "title": "Miracle", "duration": "3:36" },
@@ -87,7 +87,7 @@
       },
       {
         "title": "Gangbusters Melody Club",
-        "album_img": "/src/assets/caravan palace/album_gangbusters_melody_club.jpg",
+        "album_img": "/images/caravan palace/album_gangbusters_melody_club.jpg",
         "year": 2024,
         "songs": [
           { "order": 1, "title": "Mad", "duration": "3:15" },
@@ -109,14 +109,14 @@
   {
     "id": 2,
     "name": "Parov Stelar",
-    "img": "/src/assets/paroc stelar/paroc_stelar_main.jpg",
-    "background_img": "/src/assets/paroc stelar/background.jpg",
+    "img": "/images/paroc stelar/paroc_stelar_main.jpg",
+    "background_img": "/images/paroc stelar/background.jpg",
     "description": "The stage name of Marcus Füreder, an Austrian musician and DJ credited as the founder of the electro-swing genre, blending 1920s jazz with modern electronic beats.",
     "albums": [
       {
         "title": "Rough Cuts",
         "year": 2004,
-        "album_img": "/src/assets/paroc stelar/album_rought_cuts.png",
+        "album_img": "/images/paroc stelar/album_rought_cuts.png",
         "songs": [
           { "order": 1, "title": "Nightwish", "duration": "3:34" },
           { "order": 2, "title": "KissKiss", "duration": "5:30" },
@@ -135,7 +135,7 @@
       {
         "title": "Seven and Storm",
         "year": 2005,
-        "album_img": "/src/assets/paroc stelar/album_seven_storm.jpg",
+        "album_img": "/images/paroc stelar/album_seven_storm.jpg",
         "songs": [
           { "order": 1, "title": "Seven", "duration": "3:51" },
           { "order": 2, "title": "Spider", "duration": "4:06" },
@@ -148,7 +148,7 @@
       {
         "title": "Shine",
         "year": 2007,
-        "album_img": "/src/assets/paroc stelar/album_shine.png",
+        "album_img": "/images/paroc stelar/album_shine.png",
         "songs": [
           { "order": 1, "title": "Shine", "duration": "3:38" },
           { "order": 2, "title": "Joyful Girl", "duration": "3:02" },
@@ -161,7 +161,7 @@
       {
         "title": "Coco",
         "year": 2009,
-        "album_img": "/src/assets/paroc stelar/album_coco.png",
+        "album_img": "/images/paroc stelar/album_coco.png",
         "songs": [
           { "order": 1, "title": "Coco", "duration": "3:25" },
           { "order": 2, "title": "The Mojo Radio Gang", "duration": "2:40" },
@@ -174,7 +174,7 @@
       {
         "title": "The Princess",
         "year": 2012,
-        "album_img": "/src/assets/paroc stelar/album_princess.png",
+        "album_img": "/images/paroc stelar/album_princess.png",
         "songs": [
           { "order": 1, "title": "Jimmy's Gang", "duration": "3:15" },
           { "order": 2, "title": "All Night", "duration": "2:46" },
@@ -188,7 +188,7 @@
       {
         "title": "The Demon Diaries",
         "year": 2015,
-        "album_img": "/src/assets/paroc stelar/album_demon_diaries.png",
+        "album_img": "/images/paroc stelar/album_demon_diaries.png",
         "songs": [
           { "order": 1, "title": "Demon Dance", "duration": "3:29" },
           { "order": 2, "title": "Keep on Dancing", "duration": "3:07" },
@@ -200,7 +200,7 @@
       {
         "title": "The Burning Spider",
         "year": 2017,
-        "album_img": "/src/assets/paroc stelar/album_the_burning_spider.png",
+        "album_img": "/images/paroc stelar/album_the_burning_spider.png",
         "songs": [
           { "order": 1, "title": "The Burning Spider", "duration": "4:14" },
           { "order": 2, "title": "Step Two", "duration": "2:54" },
@@ -213,7 +213,7 @@
       {
         "title": "Voodoo Sonic",
         "year": 2020,
-        "album_img": "/src/assets/paroc stelar/album_voodoo_sonic.png",
+        "album_img": "/images/paroc stelar/album_voodoo_sonic.png",
         "songs": [
           { "order": 1, "title": "Silver City", "duration": "3:30" },
           { "order": 2, "title": "Tango Del Fuego", "duration": "3:30" },
@@ -225,7 +225,7 @@
       {
         "title": "Moonlight Love Affair",
         "year": 2022,
-        "album_img": "/src/assets/paroc stelar/album_moonlight_love_afair.png",
+        "album_img": "/images/paroc stelar/album_moonlight_love_afair.png",
         "songs": [
           { "order": 1, "title": "Fire", "duration": "3:09" },
           { "order": 2, "title": "Candy Girl", "duration": "3:05" },
@@ -239,14 +239,14 @@
 {
     "id": 3,
     "name": "Swingrowers",
-    "img": "/src/assets/swingrowers/swinggrowers_main.jpg",
-    "background_img": "/src/assets/swingrowers/background.jpg",
+    "img": "/images/swingrowers/swinggrowers_main.jpg",
+    "background_img": "/images/swingrowers/background.jpg",
     "description": "An Italian electro-swing and vintage pop band from Palermo, Sicily. They fuse jazz, manouche, and swing with contemporary electronic production, house, and hip-hop.",
     "albums": [
       {
         "title": "Pronounced Swing Grow'ers",
         "year": 2012,
-        "album_img": "/src/assets/swingrowers/album_swingrowers.jpg",
+        "album_img": "/images/swingrowers/album_swingrowers.jpg",
         "songs": [
           { "order": 1, "title": "Senza Ciatu", "duration": "5:38" },
           { "order": 2, "title": "Crazy People", "duration": "3:26" },
@@ -265,7 +265,7 @@
       {
         "title": "Remote",
         "year": 2014,
-        "album_img": "/src/assets/swingrowers/album_remote.jpg",
+        "album_img": "/images/swingrowers/album_remote.jpg",
         "songs": [
           { "order": 1, "title": "Midnight", "duration": "3:43" },
           { "order": 2, "title": "Baby Lone", "duration": "3:44" },
@@ -282,7 +282,7 @@
       {
         "title": "Outsidein",
         "year": 2018,
-        "album_img": "/src/assets/swingrowers/album_outsidein.jpg",
+        "album_img": "/images/swingrowers/album_outsidein.jpg",
         "songs": [
           { "order": 1, "title": "No Strings Attached", "duration": "4:06" },
           { "order": 2, "title": "Healing Dance", "duration": "3:27" },
@@ -299,7 +299,7 @@
       {
         "title": "Hybrid",
         "year": 2021,
-        "album_img": "/src/assets/swingrowers/album_swingrowers.jpg",
+        "album_img": "/images/swingrowers/album_swingrowers.jpg",
         "songs": [
           { "order": 1, "title": "Hybrid", "duration": "3:33" },
           { "order": 2, "title": "Rose", "duration": "3:33" },
@@ -316,14 +316,14 @@
   {
     "id": 4,
     "name": "Alice Francis",
-    "img": "/src/assets/alice francis/alice_francis_main.jpg",
-    "background_img": "/src/assets/alice francis/background.jpg",
+    "img": "/images/alice francis/alice_francis_main.jpg",
+    "background_img": "/images/alice francis/background.jpg",
     "description": "A Romanian-born German singer and songwriter. She is a leading figure in the Neo-Charleston movement, blending the aesthetic and sound of the Roaring Twenties with modern rap, pop, and electronic beats.",
     "albums": [
       {
         "title": "St. James Ballroom",
         "year": 2012,
-        "album_img": "/src/assets/alice francis/album_james_ballroom.jpg",
+        "album_img": "/images/alice francis/album_james_ballroom.jpg",
         "songs": [
           { "order": 1, "title": "St. James Ballroom", "duration": "3:30" },
           { "order": 2, "title": "Shoot Him Down!", "duration": "3:27" },
@@ -342,7 +342,7 @@
       {
         "title": "Electric Shock",
         "year": 2017,
-        "album_img": "/src/assets/alice francis/album_electroshock.jpg",
+        "album_img": "/images/alice francis/album_electroshock.jpg",
         "songs": [
           { "order": 1, "title": "Too Damn Hot", "duration": "3:35" },
           { "order": 2, "title": "Beautiful Pain", "duration": "3:35" },
@@ -359,7 +359,7 @@
       {
         "title": "Club Noir",
         "year": 2022,
-        "album_img": "/src/assets/alice francis/album_club_noir.jpg",
+        "album_img": "/images/alice francis/album_club_noir.jpg",
         "songs": [
           { "order": 1, "title": "Club Noir", "duration": "3:34" },
           { "order": 2, "title": "Shake!", "duration": "3:01" },
@@ -375,14 +375,14 @@
 {
     "id": 5,
     "name": "Tape Five",
-    "img": "/src/assets/tape five/tape_five_main.jpg",
-    "background_img": "/src/assets/tape five/background.jpg",
+    "img": "/images/tape five/tape_five_main.jpg",
+    "background_img": "/images/tape five/background.jpg",
     "description": "A multi-national musical project based in Germany. They are known for a sophisticated 'Big Band' sound that seamlessly integrates 1920s swing with Bossa Nova, Mambo, and modern Nu-Jazz electronic elements.",
     "albums": [
       {
         "title": "Swingfood Mood",
         "year": 2006,
-        "album_img": "/src/assets/tape five/album_swingfood_mood.jpg",
+        "album_img": "/images/tape five/album_swingfood_mood.jpg",
         "songs": [
           { "order": 1, "title": "Avenue du Gare", "duration": "3:44" },
           { "order": 2, "title": "Pousse l'Amour", "duration": "4:00" },
@@ -394,7 +394,7 @@
       {
         "title": "Bossa for a Coup",
         "year": 2007,
-        "album_img": "/src/assets/tape five/album_bossa_for_a_coup.jpg",
+        "album_img": "/images/tape five/album_bossa_for_a_coup.jpg",
         "songs": [
           { "order": 1, "title": "Soulticket", "duration": "3:44" },
           { "order": 2, "title": "Bossa for a Coup", "duration": "4:11" },
@@ -405,7 +405,7 @@
       {
         "title": "Tonight Josephine!",
         "year": 2010,
-        "album_img": "/src/assets/tape five/album_tonight_josephine.jpg",
+        "album_img": "/images/tape five/album_tonight_josephine.jpg",
         "songs": [
           { "order": 1, "title": "A Cool Cat in Town", "duration": "3:52" },
           { "order": 2, "title": "Bad Boy Good Man", "duration": "4:15" },
@@ -418,7 +418,7 @@
       {
         "title": "Swing Patrol",
         "year": 2012,
-        "album_img": "/src/assets/tape five/album_swing_patrol.jpg",
+        "album_img": "/images/tape five/album_swing_patrol.jpg",
         "songs": [
           { "order": 1, "title": "Fabulous Swing Kid", "duration": "2:57" },
           { "order": 2, "title": "Geraldine's Routine", "duration": "3:08" },
@@ -430,7 +430,7 @@
       {
         "title": "Circus Maximus",
         "year": 2015,
-        "album_img": "/src/assets/tape five/album_circus_maximus.jpg",
+        "album_img": "/images/tape five/album_circus_maximus.jpg",
         "songs": [
           { "order": 1, "title": "Mademoiselle Liberté", "duration": "3:54" },
           { "order": 2, "title": "I'm Still in Love", "duration": "3:24" },
@@ -441,7 +441,7 @@
       {
         "title": "Soiree Deluxe",
         "year": 2017,
-        "album_img": "/src/assets/tape five/album_soiree_deluxe.jpg",
+        "album_img": "/images/tape five/album_soiree_deluxe.jpg",
         "songs": [
           { "order": 1, "title": "Lady Gasoline", "duration": "3:18" },
           { "order": 2, "title": "The Seven Wonders", "duration": "3:01" },
@@ -451,7 +451,7 @@
       {
         "title": "The Roaring 2020s",
         "year": 2019,
-        "album_img": "/src/assets/tape five/album_the_roaring_2020.png",
+        "album_img": "/images/tape five/album_the_roaring_2020.png",
         "songs": [
           { "order": 1, "title": "Party Like It's 1929", "duration": "3:11" },
           { "order": 2, "title": "Ballroom Troopers", "duration": "3:33" },
@@ -462,7 +462,7 @@
       {
         "title": "Fizzy Far Niente",
         "year": 2025,
-        "album_img": "/src/assets/tape five/album_fizzy_far_niente.jpg",
+        "album_img": "/images/tape five/album_fizzy_far_niente.jpg",
         "songs": [
           { "order": 1, "title": "The Hepcats Blues", "duration": "3:15" },
           { "order": 2, "title": "Fizzy Far Niente", "duration": "3:42" },
@@ -475,14 +475,14 @@
   {
     "id": 6,
     "name": "The Electric Swing Circus",
-    "background_img": "/src/assets/the electric swing circus/background.jpg",
-    "img": "/src/assets/the electric swing circus/electric_swing_circus_main.avif",
+    "background_img": "/images/the electric swing circus/background.jpg",
+    "img": "/images/the electric swing circus/electric_swing_circus_main.avif",
     "description": "A high-energy British 6-piece band that fuses vintage 1920s swing with heavy electronic beats, including breakbeat, house, and rock. They are known for their explosive live performances and signature dual female vocals.",
     "albums": [
       {
         "title": "The Electric Swing Circus",
         "year": 2013,
-        "album_img": "/src/assets/the electric swing circus/album_electric_swing_circus.jpg",
+        "album_img": "/images/the electric swing circus/album_electric_swing_circus.jpg",
         "songs": [
           { "order": 1, "title": "ESC", "duration": "2:05" },
           { "order": 2, "title": "Bella Belle", "duration": "3:39" },
@@ -502,7 +502,7 @@
       {
         "title": "It Flew By",
         "year": 2017,
-        "album_img": "/src/assets/the electric swing circus/album_it_flew_by.jpg",
+        "album_img": "/images/the electric swing circus/album_it_flew_by.jpg",
         "songs": [
           { "order": 1, "title": "Empires", "duration": "3:11" },
           { "order": 2, "title": "Golden Hour", "duration": "2:49" },
@@ -522,7 +522,7 @@
       {
         "title": "Pleasure Seekers",
         "year": 2022,
-        "album_img": "/src/assets/the electric swing circus/album_pleasure_seekers.jpg",
+        "album_img": "/images/the electric swing circus/album_pleasure_seekers.jpg",
         "songs": [
           { "order": 1, "title": "Esc Her", "duration": "1:55" },
           { "order": 2, "title": "Gravity", "duration": "4:34" },

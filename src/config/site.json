@@ -2,7 +2,7 @@
   "site": {
     "title": "Electro Swing",
     "description": "",
-    "favicon_image": "",
+    "favicon_image": "/images/favicon-32x32.png",
     "logo-dark": "/images/Logo - Dark.png",
     "logo-light": "/images/Logo - Light.png"
   }

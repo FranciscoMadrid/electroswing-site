@@ -39,7 +39,7 @@ export default function DesktopNavbar({hidden}:DesktopNavbarProps) {
           loading='eager'
           alt='vinyl-record.png'
           className='h-8 w-8'
-          src='/src/assets/vinyl-record-navbar.png'/>
+          src='/images/vinyl-record-navbar.png'/>
           <p className='text-2xl font-medium text-black transition-all duration-300 ease-in-out'>
             Electroswing
           </p>
